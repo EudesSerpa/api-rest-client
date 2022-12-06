@@ -1,0 +1,17 @@
+{
+  "name": "api-rest-client-with-proxy",
+  "version": "1.0.0",
+  "description": "API Rest client with proxy by midudev",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-rest",
+    "proxy",
+    "midudev"
+  ],
+  "author": "",
+  "license": "MIT"
+}
